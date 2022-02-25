@@ -6,3 +6,15 @@
     width: 10em;
     height: 10em;
 }
+body {
+    background-color: #FBF8F1;
+}
+h1, h3 {
+    color: #54BAB9;
+}
+hr {
+    width: 5%;
+    border-style: dotted none none none;
+    color:grey;
+    height: 1px;
+}
